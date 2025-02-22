@@ -39,6 +39,10 @@ bundle exec jekyll serve
 
 And visit http://127.0.0.1:4000
 
+
+Images: Change the dl=0 to raw=1
+
+
 ### Publishing
 
 Add all of the files that you have changed, and then commit and push the changes to GitHub
@@ -46,7 +50,7 @@ Add all of the files that you have changed, and then commit and push the changes
 ```
 git status
 git add .
-git commit -m <Insert message>
+git commit -m "<Insert message>"
 git push
 
 ```
