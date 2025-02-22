@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-<img class='image' style='max-width: 600px; padding-bottom: 20px;' src="https://picsum.photos/200/300">
+<img class='image' style='max-width: 600px; padding-bottom: 20px;' src="https://www.dropbox.com/scl/fi/vjsmzyxdn4spc4paaj32r/273B905E-6F0B-472F-ABE9-B241D17F7320-1230-000000287723ABD1.JPG?rlkey=rd0pi57cvyqrwe18eqj95n2ae&st=fory9gl9&raw=1">
 
 ## My name is Jeremin and I am from Perth, Western Australia.
 

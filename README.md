@@ -2,7 +2,6 @@
 
 ### Building
 
-
 Last login: Sat Feb 22 16:54:04 on ttys001
 chruby: unknown Ruby: ruby-3.4.1
 jereminchan@Mac ~ % ls   
@@ -19,7 +18,9 @@ Music
 Pictures
 Public
 openfx_plugin_cache.xml
+
 jereminchan@Mac ~ % cd Documents
+
 jereminchan@Mac Documents % ls
 21			Photos			Thangs
 Books			Receipts and Forms	Travel
@@ -47,4 +48,5 @@ git status
 git add .
 git commit -m <Insert message>
 git push
+
 ```
