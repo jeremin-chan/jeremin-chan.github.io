@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    {% feed_meta %}
+  </head>
+  <body>
+    {% include navigation.html %}
+    <div class="container">
+      {{ content }}
+      <hr style='margin: 50px 0px 200px 0px'>
+    </div>
+  </body>
+</html>
