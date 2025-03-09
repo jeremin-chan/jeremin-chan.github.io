@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diary of a limping kid #1
+title: Diary of a limping kid 1
 category: [australia]
 author: Jeremin Chan
 image: https://www.dropbox.com/scl/fi/y2l2acv9uw9ljfewqqgeu/PXL_20250108_025131297.jpg?rlkey=vg53t3o3bg869ew29m6h17hsq&st=o4uk3t0p&raw=1

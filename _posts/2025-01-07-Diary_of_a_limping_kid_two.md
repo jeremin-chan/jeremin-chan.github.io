@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diary of a limping kid #1
+title: Diary of a limping kid 2
 category: [australia]
 author: Jeremin Chan
 image: https://www.dropbox.com/scl/fi/b4vifuzb26uxzlcjmtpno/the-best-memes-people-with-bad-knees-kneed-to-see-to-laugh-through-the-pain.jpeg?rlkey=imn5399btmczempbic4ljdiy0&st=ahvddwk3&raw=1
@@ -18,5 +18,5 @@ For all the real ones out there thanks for continually thinking of me - this one
 
 
 <div class='gallery' style='align-items: center'>
-  <img src="https://www.dropbox.com/scl/fi/b4vifuzb26uxzlcjmtpno/the-best-memes-people-with-bad-knees-kneed-to-see-to-laugh-through-the-pain.jpeg?rlkey=imn5399btmczempbic4ljdiy0&st=ahvddwk3&raw=1">
+  <img src="https://www.dropbox.com/scl/fi/b4vifuzb26uxzlcjmtpno/the-best-memes-people-with-bad-knees-kneed-to-see-to-laugh-through-the-pain.jpeg?rlkey=imn5399btmczempbic4ljdiy0&st=ahvddwk3&raw=1" width="75%">
 </div>

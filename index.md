@@ -2,9 +2,9 @@
 layout: default
 title: Home
 ---
-### Life update
+### Welcome fam
 
-Hello my name is Jerry and I am writing short stories and Austin is watching over my shoulder whilst I edit this stuff like an octagenarian lol.
+Hello my name is Jerry and I am writing down a few things and some short stories hope you enjoy thx.
 
 
 
